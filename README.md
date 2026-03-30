@@ -8,7 +8,7 @@ Assignments
 | 02 | Topology | [View](./Assignments/Assignment2.pdf) |
 | 03 | Not_Simple | [View](./Assignments/Assignment3.pdf) |
 | 04 | TCP-UDP | [View](./Assignments/Assignment4.pdf) |
-| 05 | New Network | [View](./Assignments/New Network Technology.pdf) |
+| 05 | New Network | [View](./Assignments/NewNetworkTechnology.pdf) |
 
 ---
 
