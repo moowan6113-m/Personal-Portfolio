@@ -36,7 +36,7 @@ Certificate Gallery
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="./certificates/Certificate.jpg" alt="Certificate 1" width="100%">
+      <img src="./Certificate/Certificate.jpg" alt="Certificate 1" width="100%">
     </td>
   </tr>
 </table>
